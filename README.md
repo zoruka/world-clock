@@ -3,6 +3,8 @@
 The project is developed with [create-react-app](https://github.com/facebook/create-react-app) that uses [moment-timezone](https://momentjs.com/timezone/) to get the time in principal cities of the world.
 The main objective of the project is create a dockered app to presents an academic work.
 
+<br />
+
 # Dockered App
 
 There is a starter image version is uploaded at dockerhub.
@@ -18,10 +20,9 @@ After a few seconds you can access by opening [`http://localhost`](http://localh
 
 <br />
 
-
 # React App
 
-Inside de `app` folder you can run the common create-react-app commands to start a development server.
+Inside the `app` folder you can run the common create-react-app commands to start a development server.
 
 ### `npm install`
 
