@@ -23,6 +23,10 @@ After a few seconds you can access by opening [`http://localhost`](http://localh
 
 Inside de `app` folder you can run the common create-react-app commands to start a development server.
 
+### `npm install`
+
+Run it before start the development server to install the node dependencies.
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
